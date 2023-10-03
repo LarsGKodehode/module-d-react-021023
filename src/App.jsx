@@ -13,6 +13,7 @@ export function App() {
 
       <footer>
         <p>Kodehode</p>
+        <a href="https://github.com/LarsGKodehode/module-d-react-021023">Source Code</a>
       </footer>
     </div>
   )
