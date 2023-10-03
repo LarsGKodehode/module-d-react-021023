@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
